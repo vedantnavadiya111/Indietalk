@@ -27,7 +27,7 @@ node translator.js "Hello World" source-language target-language
 Interested in contributing? Great! Please check out the CONTRIBUTING.md for details.
 
 ## License
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the Apache 2.0 License. See `LICENSE` for more information.
 
 ## Contact
 Vedant Navadiya - [vedantnavadiya2004@gmail.com]
