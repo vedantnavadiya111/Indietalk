@@ -1,6 +1,16 @@
 # IndieTalk Translator
 
-A Hindi to English translation service using the IndicTrans model.
+A powerful and easy-to-use Hindi to English translation service using the IndicTrans model.
+
+## Description
+IndieTalk is a powerful and easy-to-use tool that provides accurate and real-time language translation.
+
+## Features
+- Supports Hindi to English translation
+- Fast and reliable translation algorithms
+- Simple and intuitive user interface
+- RESTful API for easy integration
+- Multiple translation configurations for different use cases
 
 ## Installation
 
@@ -100,4 +110,13 @@ Response:
 
 - Python 3.8 or higher
 - CUDA-capable GPU (optional, for faster processing)
-- Dependencies listed in requirements.txt 
+- Dependencies listed in requirements.txt
+
+## Contributing
+Interested in contributing? Great! Please check out the CONTRIBUTING.md for details.
+
+## License
+Distributed under the Apache 2.0 License. See `LICENSE` for more information.
+
+## Contact
+Vedant Navadiya - [vedantnavadiya2004@gmail.com]
