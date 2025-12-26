@@ -5,6 +5,14 @@ A powerful and easy-to-use Hindi to English translation service using the IndicT
 ## Description
 IndieTalk is a powerful and easy-to-use tool that provides accurate and real-time language translation.
 
+##Screenshots
+<img width="1919" height="968" alt="Screenshot 2025-05-07 202211" src="https://github.com/user-attachments/assets/e1890b45-4560-4e59-b26d-d61e0aac5de8" />
+<img width="1919" height="972" alt="Screenshot 2025-05-07 202225" src="https://github.com/user-attachments/assets/9aee931a-4d3f-4b43-a8fa-e745abd41010" />
+<img width="563" height="831" alt="Screenshot 2025-05-07 202239" src="https://github.com/user-attachments/assets/87eb5493-078d-413d-b86a-8970e62b006c" />
+<img width="646" height="680" alt="Screenshot 2025-05-07 202255" src="https://github.com/user-attachments/assets/072989f0-a6d6-4aa7-9bdb-6cddf8d12076" />
+<img width="1913" height="969" alt="Screenshot 2025-05-07 202341" src="https://github.com/user-attachments/assets/192194fc-8f0b-4d37-8d01-703251909fd0" />
+
+
 ## Features
 - Supports Hindi to English translation
 - Fast and reliable translation algorithms
